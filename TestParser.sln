@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestParser", "TestParser.csproj", "{623E4743-2C7B-42B8-A131-A9AB98A6142D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{623E4743-2C7B-42B8-A131-A9AB98A6142D}.Debug.ActiveCfg = Debug|.NET
+		{623E4743-2C7B-42B8-A131-A9AB98A6142D}.Debug.Build.0 = Debug|.NET
+		{623E4743-2C7B-42B8-A131-A9AB98A6142D}.Release.ActiveCfg = Release|.NET
+		{623E4743-2C7B-42B8-A131-A9AB98A6142D}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
